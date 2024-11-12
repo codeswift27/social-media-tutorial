@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "angel_dust_pfp.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

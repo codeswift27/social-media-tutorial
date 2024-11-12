@@ -1,0 +1,65 @@
+[
+    {
+        "title": "New club!!",
+        "author": "@codeswift27",
+        "replies": 0,
+        "shares": 3,
+        "likes": 5,
+        "content": "Hiii! I'm starting an iOS Programming Club, and you should totally join! We'll be learning more about programming in Swift, creating apps, and the 2025 WWDC Swift Student Challenge :)",
+        "id": 1001
+    },
+    {
+        "title": "Meow",
+        "author": "@fluffycat",
+        "replies": 0,
+        "shares": 0,
+        "likes": 20,
+        "content": "Meow meow, meoww! meow? meow meow meow! meow, meow. meow... Meow!",
+        "id": 1002
+    },
+    {
+        "title": "hi guys",
+        "author": "@angelxoxo",
+        "replies": 4,
+        "shares": 0,
+        "likes": 10,
+        "content": "Hiii! I'm new here. Is chirp like the knockoff of some other bird app???",
+        "id": 1003
+    },
+    {
+        "title": "new bet",
+        "author": "@peacock777",
+        "replies": 108,
+        "shares": 243,
+        "likes": 210,
+        "content": "Wanna check out the new bar with me @owlprofessor",
+        "id": 1004
+    },
+    {
+        "title": "new bet",
+        "author": "new bet @owlprofessor",
+        "replies": 480,
+        "shares": 624,
+        "likes": 896,
+        "content": "@peacock777 No.",
+        "id": 1005
+    },
+    {
+        "title": "why haru is the best free character ever",
+        "author": "@winsomelovescats",
+        "replies": 103,
+        "shares": 693,
+        "likes": 420,
+        "content": "Haruka Nanase from the hit anime “free!” Is the best. he loves the water and he’s really cutesy. he loves eating fish and feeds the cats in his neighborhood everyday. I love him so much he’s amazing",
+        "id": 1006
+    },
+    {
+        "title": "buddie canon",
+        "author": "@winsomelovescats",
+        "replies": 12,
+        "shares": 37,
+        "likes": 118,
+        "content": "buddie is the ship of buck and eddie from 911, and they’re soooo in love they will be canon soon",
+        "id": 1007
+    }
+]
