@@ -5,6 +5,7 @@ struct PostView: View {
     // First we need variables to store the different parts
     // of our post. Uncomment the following code:
     
+    /*
     var title: String
     var author: String
     var replies: Int
@@ -15,6 +16,7 @@ struct PostView: View {
     
     @Binding var shared: Bool
     @Binding var liked: Bool
+    */
     
     // Note that the variables here are not initialized. This
     // is because we will have to pass in the values for the
